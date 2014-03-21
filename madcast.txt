@@ -1,0 +1,28 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: madcast.zip
+       Short Description: MadCast is an VBR-aware 'encoder' for IceCast internet mp3 streaming server
+        Long Description: (none)
+
+      Proposed directory
+           for placement: /pub/os2/apps/mmedia/sound
+
+               Your name: Dmitry Zaharov
+           Email address: madint@os2.ru
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2 Warp or higher, TCP/IP 4.0
+ Additional requirements: IceCast 1.0.0 or compatible
+
+                Replaces: (none)
+
+
+
+
